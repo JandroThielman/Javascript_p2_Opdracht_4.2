@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(29, 29, 29);
+    color: antiquewhite;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.btn{
+    margin-top: 5vh;
+    font-size: 2rem;
+}
+
+.tekst{
+    background-color: red;
+    color: rgb(39, 38, 38);
+    font-size: 1.5rem;
+}
